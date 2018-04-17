@@ -14,4 +14,5 @@ cout<<"answer= "<<div<<endl;
 catch(const char *msg){
 	cout<<"Cannot divide by 0"<<endl;
 }
+	return 0;
 }
